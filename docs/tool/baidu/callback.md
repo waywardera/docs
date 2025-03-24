@@ -1,12 +1,12 @@
 ---
-title: "Baidu Refresh Token Callback"
-toc: false
+标题:“百度刷新令牌回调”
+目录:假
 ---
 
-<NaiveClient>
-<Callback />
-</NaiveClient>
+<天真客户>
+<回收/>
+</天真客户>
 
-<script setup lang="ts">
-import Callback from "@Baidu/Callback";
-</script>
+<脚本设置 语言=" ts ">
+进口 回收 从 " @百度/回拨";
+</脚本>
